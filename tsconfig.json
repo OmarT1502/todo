@@ -1,8 +1,9 @@
 {
     "compilerOptions": {
         "target": "es2018",
+        "module": "ESNext",
+        "moduleResolution": "Node",
         "outDir": "./dist",
-        "rootDir": "./src",
-        "module": "commonjs"
+        "rootDir": "./src"
     }
 }
